@@ -35,8 +35,3 @@ for ($i=1; $i <= $num_ans; $i++) {
 <?php
 }
 ?>
-
-<script type="text/javascript">
-
-$(".dog").css("color", "blue");
-</script>
