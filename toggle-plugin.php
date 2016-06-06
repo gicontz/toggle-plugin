@@ -8,7 +8,7 @@
 * License: MIT
 */
 ?>
-<script type="text/javascript" src="jquery-2.2.0.min.js"></script>
+<script type="text/javascript" src="js/jquery-2.2.0.min.js"></script>
 <?php
 
 function toggleAnswer($num_ans, $base_class_name, $ansfield_class_name, $general_class_name_of_answer){
