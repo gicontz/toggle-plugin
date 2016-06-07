@@ -20,13 +20,26 @@ with its four (4) parameters-- $num_ans as integer, $base_class_name ass string,
 
 
 $num_ans -> is a php variable refers to the maximum number of questions and answers to be toggle by the plugin
+
 $base_class_name -> refers to the class name prefix of the question applies on any kind of html tag
+
 $ansfield_class_name -> refers to the class name prefix of the answer applies on any kind of html tag
+
 $general_class_name_of_answer -> refers to the class to be hide at the first load so that it will be showed only if the question or a tag with the class $base_class_name is clicked by a user
+
 $mouse_event-> refers to the event handler that must be performed by the cursor to toggle the answer field
 
+Installation:
+1. Download the zip file
+2. Extract the zip file
+3. Rename the extracted folder into "toggle-plugin"
+4. Compress the folder again into zip file
+5. Upload your plugin in wordpress
+
 General Rules:
+
 1. The class you will give for the questions and answers must be suffixed by a number e.g. question1, answer1
+
 2. Every class for questions and answers must be incremented every new question e.g. 
 						
 						<p class="question1 question"> Question? </p>
@@ -48,6 +61,8 @@ General Rules:
 		Copy the HTML Code,
 		Paste the code to the page you had set.
 		All instructions or Guides are their in the Settings Admin Menu of giToggle. Hope this will help you out.
+
+
 
 For clarifications: Please email me at 61m37.17@gmail.com or add mo on facebook at fb.com/bijuumode
 
