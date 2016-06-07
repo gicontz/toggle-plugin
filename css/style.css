@@ -1,0 +1,54 @@
+#gitoggle_admin form[name="options"]{	
+    border: 5px solid #000;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#gitoggle_admin.wrap select#page_id {
+    display: block;
+}
+
+select#page_id {
+    display: none;
+}
+
+#gitoggle_admin textarea{
+	width: 500px;
+	height: 200px;
+}
+
+#gitoggle_admin .help{
+	color: #F1F1F1;
+}
+
+.label, #gitoggle_admin .help:before{
+	float: left;
+}
+
+#gitoggle_admin .help:before{
+	float: none;
+	content: '?\a'attr(title);
+	white-space: pre;
+	color: #fff;
+    margin-left: 10px;
+    background: #444;
+    padding: 0 7px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.help_label *:hover{
+	color: #000 !important;
+}
+
+#gitoggle_admin h3:before {
+    content: url('http://localhost/wordpress/wp-content/plugins/toggle-plugin/gitoggle.png');
+    margin: 0 10px;
+}
+
+#gitoggle_admin h3 {
+    background: rgba(255, 255, 255, 0.81);
+    padding: 35px 20px;
+    box-sizing: border-box;
+    border: 5px solid #3A9807;
+}
