@@ -2,11 +2,11 @@
 
 
 /** Plugin Name: iToggle
-* Plugin URI: http://danielpataki.com
+* Plugin URI: https://github.com/ghilo17/toggle-plugin
 * Description: A Slider Toggle used for FAQ's
 * Version: 1.0.1
 * Author: Gimel Contillo
-* Author URI: http://danielpataki.com
+* Author URI: http://www.facebook.com/bijuumode
 * License: MIT
 * Date Released: June 2, 2016
 */
