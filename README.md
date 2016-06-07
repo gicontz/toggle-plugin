@@ -30,6 +30,7 @@ $general_class_name_of_answer -> refers to the class to be hide at the first loa
 $mouse_event-> refers to the event handler that must be performed by the cursor to toggle the answer field
 
 Installation:
+
 1. Download the zip file
 
 2. Extract the zip file
