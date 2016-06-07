@@ -31,9 +31,13 @@ $mouse_event-> refers to the event handler that must be performed by the cursor 
 
 Installation:
 1. Download the zip file
+
 2. Extract the zip file
+
 3. Rename the extracted folder into "toggle-plugin"
+
 4. Compress the folder again into zip file
+
 5. Upload your plugin in wordpress
 
 General Rules:
