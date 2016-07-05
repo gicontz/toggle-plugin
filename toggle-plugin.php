@@ -193,5 +193,5 @@ function gitoggle_display_settings() {
         </div>';
     echo $html;  
 }
-
+add_shortcode('gitoggle_activate','gitoggle_html_code');
 ?>
