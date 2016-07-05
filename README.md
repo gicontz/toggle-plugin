@@ -63,7 +63,7 @@ General Rules:
 
 		Configure the Settings, 
 		Update the settings,
-		Copy the HTML Code,
+		Copy the Shortcode [gitoggle_activate],
 		Paste the code to the page you had set.
 		All instructions or Guides are their in the Settings Admin Menu of giToggle. Hope this will help you out.
 
